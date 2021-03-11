@@ -1,4 +1,4 @@
-  
+
 """
 Calculator app with basic methods.
 """
