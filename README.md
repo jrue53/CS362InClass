@@ -1,6 +1,10 @@
 # CS362InClass
 In Class Activity 3/11/21
 
-![pic1](Pipelines - jrue53_CS362InClass-1.png)
-![pic2](Pipelines - jrue53_CS362InClass-2.png)
-![pic3](Pipelines - jrue53_CS362InClass-3.png)
+![pic1](pic1-1.png)
+
+![pic2](pic2-1.png)
+
+![pic3](pic3-1.png)
+
+![pic4](pic4-1.png)
